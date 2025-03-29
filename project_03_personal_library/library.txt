@@ -1,0 +1,16 @@
+[
+    {
+        "title": "danii",
+        "author": "hsja",
+        "year": 30230,
+        "genre": "ics",
+        "read": true
+    },
+    {
+        "title": "sdasd",
+        "author": "",
+        "year": 0,
+        "genre": "",
+        "read": false
+    }
+]
