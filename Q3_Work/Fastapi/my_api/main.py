@@ -2,7 +2,7 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
-@app.get("/mydetails")
+@app.get("/")
 def get_my_details():
     return {
         "name" : "Muhammad Daniyal",
